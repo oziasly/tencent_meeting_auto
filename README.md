@@ -55,8 +55,9 @@ oziasly
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
-
-该项目签署了GPL授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+- 本程序（tencent_meeting_auto）仅供学习交流
+- 使用后任何不可知事件都与原作者无关，原作者不承担任何后果
+- 该项目签署了GPL授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
 
 ### 鸣谢
 
