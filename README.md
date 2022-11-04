@@ -16,6 +16,7 @@ We want to it to be automatic.
 
 <!-- PROJECT LOGO -->
 <br />
+
 ## 目录
 
 - [上手指南](#上手指南)
@@ -64,15 +65,15 @@ oziasly
 - [Img Shields](https://shields.io)
 <!-- links -->
 [your-project-path]:oziasly/tencent_meeting_auto
-[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/oziasly/tencent_meeting_auto.svg?style=flat-square
 [contributors-url]: https://github.com/oziasly/tencent_meeting_auto/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/oziasly/tencent_meeting_auto.svg?style=flat-square
 [forks-url]: https://github.com/oziasly/tencent_meeting_auto/network/members
-[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/oziasly/tencent_meeting_auto.svg?style=flat-square
 [stars-url]: https://github.com/oziasly/tencent_meeting_auto/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/oziasly/tencent_meeting_auto.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/oziasly/tencent_meeting_auto.svg
+[license-shield]: https://img.shields.io/github/license/oziasly/tencent_meeting_auto.svg?style=flat-square
 [license-url]: https://github.com/oziasly/tencent_meeting_auto/blob/master/LICENSE.txt
 
 
